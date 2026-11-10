@@ -2,3 +2,4 @@ User Registration Feature
 Username: Required
 Email: Required
 Password: Required
+Phone: Required
